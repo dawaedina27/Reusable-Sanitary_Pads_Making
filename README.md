@@ -1,15 +1,13 @@
-# MODULE 1
-
 # REUSANBLE SANITARY PADS MAKING
 
-Reusable Sanitary Pads are cloth pads that can be used several times. They absorbs the menstrual blood and the pad should stay for about 4-5 hours depending on your menstrual flow. After use, you need to wash the cloth really well and remove every stain of blood and then you can reuse the same pad. These cloth pads are usually made in several layers . 
+Reusable Sanitary Pads are cloth pads that can be used several times. They absorb the menstrual blood and the pad should stay for about 4-5 hours depending on your menstrual flow. After use, you need to wash the cloth really well and remove every stain of blood and then you can reuse the same pad. These cloth pads are usually made in several layers. 
 
 ## Description 
-The product consists of a top layer that comes in direct contact with the body, a transfer layer followed by an absorbent material which absorbs menstrual blood and other fluids, a leak proof layer at the bottom and an adhesive coating at the back of leak proof layer for fixing to the panties, which prevents dislocation when worn.
+The product consists of a top layer that comes in direct contact with the body, a transfer layer followed by an absorbent material whth absorb menstrual blood and other fluids, a leakproof layer at the bottom, and an adhesive coating at the back of leak proof layer for fixing to the panties, which prevents dislocation when worn.
 
-The pad has wings so that it could be attached to the panties. The upper layer (top layer) is a woven or non-woven material with sufficient porosity to meet the absorbency requirements. The materials for the top layer may include polyester, polyethylene or polypropylene or their blend, cotton, viscose/rayon etc. Middle absorbent layer made of cellulosic material and outer layers made of plastic. 
+The pad has wings so that it could be attached to the panties. The upper layer (top layer) is a woven or non-woven material with sufficient porosity to meet the absorbency requirements. The materials for the top layer may include polyester, polyethylene or polypropylene or their blend, cotton, viscose/rayon etc. The middle absorbent layer is made of cellulosic material and the outer layers are made of plastic. 
 
-Optionally, the absorbent layer can be mixed with super absorbent polymers to enhance absorption and make the pad thin. The lower leak proof layer including the wings is made of plastic such as polyethylene/ polypropylene
+Optionally, the absorbent layer can be mixed with super-absorbent polymers to enhance absorption and make the pad thin. The lower leakproof layer including the wings is made of plastic such as polyethylene/ polypropylene
 
 ## Learning Objective 
 * They offer women and girls an affordable and environmentally friendly alternative
