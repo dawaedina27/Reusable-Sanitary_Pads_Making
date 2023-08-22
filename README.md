@@ -107,6 +107,7 @@ To wear the reusable sanitary pad, place it in your underwear, wrap the wings un
 ## Participants
 ** Max. Participants:** 30
 
+
 ** Min. Trainers:** 2
 
 ## Credits, References and Resources  
