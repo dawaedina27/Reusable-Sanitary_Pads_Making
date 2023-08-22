@@ -46,53 +46,53 @@ Make your pad template (You can use paper, box, or fly wood for making the templ
   
 * Make the second one to help in cutting the plastic piece and it should be slightly larger than the cotton piece it should be 16cm X 30Ccm.
 
- ![First step of the pads making](images/2-3.jpg)              ![First step of the pads making](images/2-4.jpg)
+ ![Measure and make the template](images/2-3.jpg)              ![First step of the pads making](images/2-4.jpg)
   
-* 	Make the third one to help in cutting the fabric and make sure it’s longer than the previously cut pieces and with wings on the edges of the long sides
+* Make the third one to help in cutting the fabric and make sure it’s longer than the previously cut pieces and with wings on the edges of the long sides
 
-![First step of the pads making](images/2-5.jpg)                   ![First step of the pads making](images/2-6.jpg)      
+![make the template](images/2-5.jpg)                   ![First step of the pads making](images/2-6.jpg)      
   
 ### Step three
 With the help of the templates/pad cutting guide, Use the soluble pen/marker to make drawings/sketches of the pad on the fabric, plastic, and the cotton piece as well. Do the same experiment with all the pads you want to make
 
-![First step of the pads making](images/3-1.jpg)
+![Draw and cut](images/3-1.jpg)
 
-![First step of the pads making](images/3-2.jpg)
+![Draw and cut](images/3-2.jpg)
 ### Step four
 Cut
 * You can now cut the piece of cotton using the smallest long shape with rounded ends.  
 * Then cut the plastic piece which is slightly larger than the cotton piece.
 
-  ![First step of the pads making](images/4-1.jpg)
+  ![Cut the small shape](images/4-1.jpg)
 
-   ![First step of the pads making](images/4-2.jpg)
-* Lastly, cut the cut pieces with wings on the edges of the long sides.
+   ![cut the slightly large shape](images/4-2.jpg)
+* Lastly, cut the pieces with wings on the edges of the long sides.
   
- ![First step of the pads making](images/4-3.jpg)
+ ![Draw and cut](images/4-3.jpg)
 
- ![First step of the pads making](images/4-4.jpg)
+ ![cut the shape with the wings piece/shape](images/4-4.jpg)
  
 ### Step five
 Put the cotton piece and the plastic piece together evenly and secure it with pins/clips, thread your needle and sew the cotton piece to the plastic piece all round
- ![First step of the pads making](images/5-1.jpg)
+ ![Thread your needle](images/5-1.jpg)
  
-![First step of the pads making](images/5-2.jpg)
+![Arrange and sew](images/5-2.jpg)
 
 #### Step six
 Sew that combined piece to the fabric piece, the cotton side facing outward and the plastic side between the fabric and cotton.
 
- ![First step of the pads making](images/6-1.jpg)
+ ![Where to Sew](images/6-1.jpg)
 
-  ![First step of the pads making](images/6-2.jpg)
+  ![Arranging the materials](images/6-2.jpg)
   
 ### Step seven
 On the edge of one of the wings, sew the button on and on the opposite wing of the edge, cut a small, narrow hole for the button to fit through. Or sew Velcro on the wings instead of buttons
 
- ![First step of the pads making](images/7-1.jpg)
+ ![Button location](images/7-1.jpg)
 
- ![First step of the pads making](images/7-2.jpg)
+ ![Velcro on the pad's wing](images/7-2.jpg)
 
-![First step of the pads making](images/7-3.jpg)
+![Button on the wings](images/7-3.jpg)
 
 To wear the reusable sanitary pad, place it in your underwear, wrap the wings under, and use the button to secure in place.
 
@@ -103,14 +103,10 @@ To wear the reusable sanitary pad, place it in your underwear, wrap the wings un
 
 ![ASKnet Logo](/images/asknet-logo.png)
 
-### Line of Code to integrate images  
-  ```
-     ![describing text for your image](/images/file_name.jpg)
-  ```  
-**Note: Please use images with less file sizes, they should not go beyond 500 KB (= 0.5 MB).** :+1:  
 
 ## Participants
-Some random text.
+** Max. Participants:** 30
+** Min. Trainers:** 2
 
 ## Credits, References and Resources  
 Links (e.g. to videos), references, etc.
