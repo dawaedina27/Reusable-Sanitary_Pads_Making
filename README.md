@@ -55,27 +55,49 @@ Make your pad template (You can use paper, box, or fly wood for making the templ
 ### Step three
 With the help of the templates/pad cutting guide, Use the soluble pen/marker to make drawings/sketches of the pad on the fabric, plastic, and the cotton piece as well. Do the same experiment with all the pads you want to make
 
-<a href=""><img src="image/3.1.png" align="left" height="48" width="48" ></a>
+![First step of the pads making](images/3-1.jpg)
 
+![First step of the pads making](images/3-2.jpg)
 ### Step four
 Cut
-* You can now cut the piece of cotton using the smallest long shape with rounded ends.
-
-  [<img src="./images/4-1.jpg" width="50" />](./link/to/images/4-1.jpg)
-  
+* You can now cut the piece of cotton using the smallest long shape with rounded ends.  
 * Then cut the plastic piece which is slightly larger than the cotton piece.
-* Lastly, cut the cut pieces with wings on the edges of the long sides.
 
+  ![First step of the pads making](images/4-1.jpg)
+
+   ![First step of the pads making](images/4-2.jpg)
+* Lastly, cut the cut pieces with wings on the edges of the long sides.
+  
+ ![First step of the pads making](images/4-3.jpg)
+
+ ![First step of the pads making](images/4-4.jpg)
+ 
 ### Step five
 Put the cotton piece and the plastic piece together evenly and secure it with pins/clips, thread your needle and sew the cotton piece to the plastic piece all round
+ ![First step of the pads making](images/5-1.jpg)
+ 
+![First step of the pads making](images/5-2.jpg)
 
 #### Step six
 Sew that combined piece to the fabric piece, the cotton side facing outward and the plastic side between the fabric and cotton.
 
+ ![First step of the pads making](images/6-1.jpg)
+
+  ![First step of the pads making](images/6-2.jpg)
+  
 ### Step seven
 On the edge of one of the wings, sew the button on and on the opposite wing of the edge, cut a small, narrow hole for the button to fit through. Or sew Velcro on the wings instead of buttons
 
+ ![First step of the pads making](images/7-1.jpg)
+
+ ![First step of the pads making](images/7-2.jpg)
+
+![First step of the pads making](images/7-3.jpg)
+
 To wear the reusable sanitary pad, place it in your underwear, wrap the wings under, and use the button to secure in place.
+
+ ![How to use](images/7-4.jpg)
+
 
 ## #ASKnet Logo 
 
