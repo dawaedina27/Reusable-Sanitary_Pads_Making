@@ -55,6 +55,8 @@ Make your pad template (You can use paper, box, or fly wood for making the templ
 ### Step three
 With the help of the templates/pad cutting guide, Use the soluble pen/marker to make drawings/sketches of the pad on the fabric, plastic, and on the cotton piece as well. Do the same experiment with all the pads you want to make
 
+<a href=""><img src="image/3.1.png" align="left" height="48" width="48" ></a>
+
 ### Step four
 Cut
 * You can now cut the piece of cotton using the smallest long shape with rounded ends.
