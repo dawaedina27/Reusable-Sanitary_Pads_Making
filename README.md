@@ -60,6 +60,9 @@ With the help of the templates/pad cutting guide, Use the soluble pen/marker to 
 ### Step four
 Cut
 * You can now cut the piece of cotton using the smallest long shape with rounded ends.
+
+  [<img src="./images/4-1.jpg" width="30" />](./link/to/sql/file)
+  
 * Then cut the plastic piece which is slightly larger than the cotton piece.
 * Lastly, cut the cut pieces with wings on the edges of the long sides.
 
