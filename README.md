@@ -58,6 +58,7 @@ Output
 <img src="Images/2-5.jpg" alt="Cut the template for the fabric" width="800"/>
 
 Output
+
 <img src="Images/2-6.jpg" alt="Cutting the template for the fabric" width="800"/>
   
 ### Step three
@@ -66,6 +67,7 @@ With the help of the templates/pad cutting guide, Use the soluble pen/marker to 
 <img src="Images/3-1.jpg" alt="Draw and cut" width="800"/>
 
 Output
+
 <img src="Images/3-2.jpg" alt="Draw and cut" width="800"/>
 
 ### Step four
@@ -76,6 +78,7 @@ Cut
 <img src="Images/4-1.jpg" alt="Cut the small shape" width="800"/>
 
 Output
+
 <img src="Images/4-2.jpg" alt="Cut the small shape" width="800"/>
 
 * Lastly, cut the pieces with wings on the edges of the long sides.
@@ -83,6 +86,7 @@ Output
 <img src="Images/4-3.jpg" alt="Draw and cut the shape with the wings piece/shape" width="800"/>
 
 Output
+
 <img src="Images/4-4.jpg" alt="Draw and cut the shape with the wings piece/shape" width="800"/>
  
 ### Step five
@@ -90,6 +94,7 @@ Put the cotton piece and the plastic piece together evenly and secure it with pi
 <img src="Images/5-1.jpg" alt="Thread your needle" width="800"/>
 
 Output
+
 <img src="Images/5-2.jpg" alt="Thread your needle" width="800"/>
 
 #### Step six
@@ -98,6 +103,7 @@ Sew that combined piece to the fabric piece, the cotton side facing outward and 
 <img src="Images/5-1.jpg" alt="Where to Sew" width="800"/>
 
 Output
+
 <img src="Images/5-2.jpg" alt="Arranging the materials" width="800"/>
   
 ### Step seven
@@ -106,7 +112,9 @@ On the edge of one of the wings, sew the button on and on the opposite wing of t
 <img src="Images/7-1.jpg" alt="Button location" width="800"/>
 
 <img src="Images/7-2.jpg" alt="Button location" width="800"/>
+
 Output
+
 <img src="Images/7-3.jpg" alt="How to use" width="800"/>
 
 To wear the reusable sanitary pad, place it in your underwear, wrap the wings under, and use the button to secure in place.
