@@ -42,72 +42,66 @@ Identify and select the tools and materials required.
 Make your pad template (You can use paper, box, or fly wood for making the template/pad cutting guide) 
 * Make one to help in cutting the piece of cotton into a long shape with rounded ends like in the pictures below 15cm X 29cm
 
-<div style="position:relative;
-width:60%;
-height:250px;
-<img src="Images/2-1.jpg" alt="First step of the pads making" 
-style="position:absolute;
-width: 100px
-height: 100px;
-top: 30px;
-right: 0;">
-</div>
-<img src="Images/2-2.jpg" alt="First step of the pads making" width="800" height="350" style="vertical-align: text-bottom">
+<img src="Images/2-1.jpg" alt="First step of the pads making" width="800"/>
+
+<img src="Images/2-2.jpg" alt="First step of the pads making" width="800" />
 
 * Make the second one to help in cutting the plastic piece and it should be slightly larger than the cotton piece it should be 16cm X 30Ccm.
-* 
-<img src="Images/2-3.jpg" alt="Measure and make the template" width="800" height="350" style="vertical-align:left;margin:0px 0px"><img src="Images/2-4.jpg" alt="Measure and make the template" width="800" height="350" style="vertical-align:right;margin:0px 0px">
+<img src="Images/2-3.jpg" alt="Cut the template for the plastic piece" width="800"/>
+
+<img src="Images/2-4.jpg" alt="Cut the template for the plastic piece" width="800" />
 
 * Make the third one to help in cutting the fabric and make sure it’s longer than the previously cut pieces and with wings on the edges of the long sides
 
-![make the template](Images/2-5.jpg)                   ![First step of the pads making](Images/2-6.jpg)      
+<img src="Images/2-5.jpg" alt="Cut the template for the fabric" width="800"/>
+
+<img src="Images/2-6.jpg" alt="Cutting the template for the fabric" width="800"/>
   
 ### Step three
 With the help of the templates/pad cutting guide, Use the soluble pen/marker to make drawings/sketches of the pad on the fabric, plastic, and the cotton piece as well. Do the same experiment with all the pads you want to make
 
-![Draw and cut](images/3-1.jpg)
+<img src="Images/3-1.jpg" alt="Draw and cut" width="800"/>
 
-![Draw and cut](images/3-2.jpg)
+<img src="Images/3-2.jpg" alt="Draw and cut" width="800"/>
+
 ### Step four
 Cut
 * You can now cut the piece of cotton using the smallest long shape with rounded ends.  
 * Then cut the plastic piece which is slightly larger than the cotton piece.
 
-  ![Cut the small shape](images/4-1.jpg)
+<img src="Images/4-1.jpg" alt="Cut the small shape" width="800"/>
 
-   ![cut the slightly large shape](images/4-2.jpg)
+<img src="Images/4-2.jpg" alt="Cut the small shape" width="800"/>
+
 * Lastly, cut the pieces with wings on the edges of the long sides.
   
- ![Draw and cut](images/4-3.jpg)
+<img src="Images/4-3.jpg" alt="Draw and cut the shape with the wings piece/shape" width="800"/>
 
- ![cut the shape with the wings piece/shape](images/4-4.jpg)
+<img src="Images/4-4.jpg" alt="Draw and cut the shape with the wings piece/shape" width="800"/>
  
 ### Step five
 Put the cotton piece and the plastic piece together evenly and secure it with pins/clips, thread your needle and sew the cotton piece to the plastic piece all round
- ![Thread your needle](images/5-1.jpg)
- 
-![Arrange and sew](images/5-2.jpg)
+<img src="Images/5-1.jpg" alt="Thread your needle" width="800"/>
+
+<img src="Images/5-2.jpg" alt="Thread your needle" width="800"/>
 
 #### Step six
 Sew that combined piece to the fabric piece, the cotton side facing outward and the plastic side between the fabric and cotton.
 
- ![Where to Sew](images/6-1.jpg)
+<img src="Images/5-1.jpg" alt="Where to Sew" width="800"/>
 
-  ![Arranging the materials](images/6-2.jpg)
+<img src="Images/5-2.jpg" alt="Arranging the materials" width="800"/>
   
 ### Step seven
 On the edge of one of the wings, sew the button on and on the opposite wing of the edge, cut a small, narrow hole for the button to fit through. Or sew Velcro on the wings instead of buttons
 
- ![Button location](images/7-1.jpg)
+<img src="Images/7-1.jpg" alt="Button location" width="800"/>
 
- ![Velcro on the pad's wing](images/7-2.jpg)
-
-![Button on the wings](images/7-3.jpg)
+<img src="Images/7-2.jpg" alt="Button location" width="800"/>
 
 To wear the reusable sanitary pad, place it in your underwear, wrap the wings under, and use the button to secure in place.
 
- ![How to use](images/7-4.jpg)
-
+<img src="Images/7-3.jpg" alt="How to use" width="800"/>
 
 ## #ASKnet Logo 
 
