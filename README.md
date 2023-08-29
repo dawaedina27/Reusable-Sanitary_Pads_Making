@@ -44,7 +44,7 @@ Make your pad template (You can use paper, box, or fly wood for making the templ
   
 <img src="Images/2-1.jpg" alt="First step of the pads making" width="800" height="450" style="vertical-align:middle;margin:0px 50px">
 
- ![First step of the pads making](Images/2-1.jpg)                        ![First step of the pads making](Images/2-2.jpg)
+<img src="Images/2-2.jpg" alt="First step of the pads making" width="800" height="450" style="vertical-align:middle;margin:0px 70px">                   
 
   
 * Make the second one to help in cutting the plastic piece and it should be slightly larger than the cotton piece it should be 16cm X 30Ccm.
