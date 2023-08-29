@@ -49,7 +49,9 @@ Make your pad template (You can use paper, box, or fly wood for making the templ
   
 * Make the second one to help in cutting the plastic piece and it should be slightly larger than the cotton piece it should be 16cm X 30Ccm.
 
- ![Measure and make the template](Images/2-3.jpg)              ![First step of the pads making](Images/2-4.jpg)
+<img src="Images/2-3.jpg" alt="Measure and make the template" width="800" height="350" style="vertical-align:left;margin:0px 0px">
+
+<img src="Images/2-4.jpg" alt="Measure and make the template" width="800" height="350" style="vertical-align:right;margin:0px 70px"> 
   
 * Make the third one to help in cutting the fabric and make sure it’s longer than the previously cut pieces and with wings on the edges of the long sides
 
