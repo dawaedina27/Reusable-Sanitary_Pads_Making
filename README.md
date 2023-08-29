@@ -98,10 +98,11 @@ On the edge of one of the wings, sew the button on and on the opposite wing of t
 <img src="Images/7-1.jpg" alt="Button location" width="800"/>
 
 <img src="Images/7-2.jpg" alt="Button location" width="800"/>
+<img src="Images/7-3.jpg" alt="How to use" width="800"/>
 
 To wear the reusable sanitary pad, place it in your underwear, wrap the wings under, and use the button to secure in place.
 
-<img src="Images/7-3.jpg" alt="How to use" width="800"/>
+<img src="Images/7-4.jpg" alt="How to use" width="800"/>
 
 ## #ASKnet Logo 
 
