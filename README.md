@@ -41,10 +41,11 @@ Identify and select the tools and materials required.
 ### Step two
 Make your pad template (You can use paper, box, or fly wood for making the template/pad cutting guide) 
 * Make one to help in cutting the piece of cotton into a long shape with rounded ends like in the pictures below 15cm X 29cm
+  
 <img src="Images/2-1.jpg" alt="First step of the pads making" width="800" height="450" style="vertical-align:middle;margin:0px 50px">
+
  ![First step of the pads making](Images/2-1.jpg)                        ![First step of the pads making](Images/2-2.jpg)
 
-  <img src="Images/2-1.jpg" alt="First step of the pads making" width="800" height="450" style="vertical-align:middle;margin:0px 50px">
   
 * Make the second one to help in cutting the plastic piece and it should be slightly larger than the cotton piece it should be 16cm X 30Ccm.
 
