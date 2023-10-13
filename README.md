@@ -123,7 +123,7 @@ To wear the reusable sanitary pad, place it in your underwear, wrap the wings un
 
 <img src="Images/7-4.jpg" alt="How to use" width="800"/>
 
-## #ASKnet Logo 
+## ASKnet Logo 
 
 <img src="Images/asknet-logo.png" alt="#Asknet logo="800"/>
 
