@@ -125,8 +125,7 @@ To wear the reusable sanitary pad, place it in your underwear, wrap the wings un
 
 ## #ASKnet Logo 
 
-![ASKnet Logo](/images/asknet-logo.png)
-
+<img src="Images/asknet-logo.png" alt="#Asknet logo="800"/>
 
 ## Participants
 ** Max. Participants:** 30
