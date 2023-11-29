@@ -1,4 +1,4 @@
-# REUSANBLE SANITARY PADS MAKING
+# REUSABLE SANITARY PADS MAKING
 
 Reusable Sanitary Pads are cloth pads that can be used several times. They absorb the menstrual blood and the pad should stay for about 4-5 hours depending on your menstrual flow. After use, you need to wash the cloth really well and remove every stain of blood and then you can reuse the same pad. These cloth pads are usually made in several layers. 
 
@@ -43,25 +43,32 @@ Make your pad template (You can use paper, box, or fly wood for making the templ
 * Make one to help in cutting the piece of cotton into a long shape with rounded ends like in the pictures below 15cm X 29cm
 
 <img src="Images/2-1.jpg" alt="First step of the pads making" width="800"/>
+<p><em>Template for the pad</em></p>
 
-Output
+Output:
 
 <img src="Images/2-2.jpg" alt="First step of the pads making" width="800" />
+<p><em>First outcome</em></p>
 
 * Make the second one to help in cutting the plastic piece and it should be slightly larger than the cotton piece it should be 16cm X 30Ccm.
+
 <img src="Images/2-3.jpg" alt="Cut the template for the plastic piece" width="800"/>
+<p><em>Second template for the fabric</em></p>
 
 Output
-
 <img src="Images/2-4.jpg" alt="Cut the template for the plastic piece" width="800" />
+<p><em>Cut the template for the plastic piece</em></p>
 
 * Make the third one to help in cutting the fabric and make sure it’s longer than the previously cut pieces and with wings on the edges of the long sides
 
 <img src="Images/2-5.jpg" alt="Cut the template for the fabric" width="800"/>
+<p><em>Third template for the fabric</em></p>
+
 
 Output
-
 <img src="Images/2-6.jpg" alt="Cutting the template for the fabric" width="800"/>
+<p><em>Cutting the template for the fabric</em></p>
+
   
 ### Step three
 With the help of the templates/pad cutting guide, Use the soluble pen/marker to make drawings/sketches of the pad on the fabric, plastic, and the cotton piece as well. Do the same experiment with all the pads you want to make
