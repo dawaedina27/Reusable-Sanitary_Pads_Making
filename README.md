@@ -50,17 +50,16 @@ Output:
 <p align="center" width="100%">
 <img width="600" src="Images/2-2.jpg" alt="First step of the pads making"/><br><em>First outcome</em></p>
 
-* Make the second one to help in cutting the plastic piece and it should be slightly larger than the cotton piece it should be 16cm X 30Ccm.
+Make the second one to help in cutting the plastic piece and it should be slightly larger than the cotton piece it should be 16cm X 30Ccm.
 
 <p align="center" width="100%">
 <img src="Images/2-3.jpg" alt="Cut the template for the plastic piece" width="600"/><br><em>Second template for the fabric</em></p>
-
 
 Output
 <p align="center" width="100%">
 <img src="Images/2-4.jpg" alt="Cut the template for the plastic piece" width="600" /><br><em>The template for the plastic piece</em></p>
 
-* Make the third one to help in cutting the fabric and make sure it’s longer than the previously cut pieces and with wings on the edges of the long sides
+Make the third one to help in cutting the fabric and make sure it’s longer than the previously cut pieces and with wings on the edges of the long sides
 
 <p align="center" width="100%">
 <img src="Images/2-5.jpg" alt="Cut the template for the fabric" width="600"/><br><em>Third template for the fabric</em></p>
@@ -76,26 +75,27 @@ With the help of the templates/pad cutting guide, Use the soluble pen/marker to 
 <img src="Images/3-1.jpg" alt="Draw and cut" width="600"/><br><em>Draw and cut</em></p>
 
 Output
-<img src="Images/3-2.jpg" alt="Draw and cut" width="800"/>
+<p align="center" width="100%">
+<img src="Images/3-2.jpg" alt="Draw and cut" width="600"/><br><em>Fabric ready to cut</em></p>
 
 ### Step four
-Cut
-* You can now cut the piece of cotton using the smallest long shape with rounded ends.  
-* Then cut the plastic piece which is slightly larger than the cotton piece.
+You can now cut the piece of cotton using the smallest long shape with rounded ends.  
+Then cut the plastic piece which is slightly larger than the cotton piece.
 
-<img src="Images/4-1.jpg" alt="Cut the small shape" width="800"/>
+<p align="center" width="100%">
+<img src="Images/4-1.jpg" alt="Cut the small shapes" width="600"/><br><em>Cut the small shapes</em></p>
+
+<p align="center" width="100%">
+<img src="Images/4-2.jpg" alt="Women cutting the fabrics" width="600"/><br><em>Women cutting the fabrics</em></p>
+
+Lastly, cut the pieces with wings on the edges of the long sides.
+
+<p align="center" width="100%">  
+<img src="Images/4-3.jpg" alt="Draw and cut the shape with wings piece/shape" width="600"/><br><em>Draw and cut the shape with wings</em></p>
 
 Output
-
-<img src="Images/4-2.jpg" alt="Cut the small shape" width="800"/>
-
-* Lastly, cut the pieces with wings on the edges of the long sides.
-  
-<img src="Images/4-3.jpg" alt="Draw and cut the shape with the wings piece/shape" width="800"/>
-
-Output
-
-<img src="Images/4-4.jpg" alt="Draw and cut the shape with the wings piece/shape" width="800"/>
+<p align="center" width="100%"> 
+<img src="Images/4-4.jpg" alt="Draw and cuting the shape with wings" width="600"/><br><em>Draw and cuting the shape with wings</em></p>
  
 ### Step five
 Put the cotton piece and the plastic piece together evenly and secure it with pins/clips, thread your needle and sew the cotton piece to the plastic piece all round
