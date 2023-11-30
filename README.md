@@ -39,23 +39,22 @@ The absorbent layer can be mixed with super-absorbent polymers to enhance absorp
 Identify and select the tools and materials required.
 
 ### Step two
-Make your pad template (You can use paper, box, or fly wood for making the template/pad cutting guide) 
-* Make one to help in cutting the piece of cotton into a long shape with rounded ends like in the pictures below 15cm X 29cm
+Make your pad template, you can use paper, box, or fly wood for making the template/pad cutting guide.   
+Make one to help cutting the piece of cotton into a long shape with rounded edges like in the pictures below 15cm X 29cm.
 
 <p align="center" width="100%">
 <img width="600" src="Images/2-1.jpg" alt="First step of the pads making"/><br><em>Template for the pad</em></p>
-
 
 Output:
 <p align="center" width="100%">
 <img width="600" src="Images/2-2.jpg" alt="First step of the pads making"/><br><em>First outcome</em></p>
 
-Make the second one to help in cutting the plastic piece and it should be slightly larger than the cotton piece it should be 16cm X 30Ccm.
+Make the second one to help cutting the plastic piece. It should be slightly larger than the cotton piece, 16cm X 30cm.
 
 <p align="center" width="100%">
 <img src="Images/2-3.jpg" alt="Cut the template for the plastic piece" width="600"/><br><em>Second template for the fabric</em></p>
 
-Make the third one to help in cutting the fabric and make sure it’s longer than the previously cut pieces and with wings on the edges of the long sides
+Make the third one to help cutting the fabric. Make sure it’s longer than the previously one and with wings on the edges of the long sides.
 
 <p align="center" width="100%">
 <img src="Images/2-5.jpg" alt="Cut the template for the fabric" width="600"/><br><em>Third template for the fabric</em></p>
@@ -65,7 +64,8 @@ Output
 <img src="Images/2-6.jpg" alt="Cutting the template for the fabric" width="600"/><br><em>The template for the fabric</em></p>
   
 ### Step three
-With the help of the templates/pad cutting guide, Use the soluble pen/marker to make drawings/sketches of the pad on the fabric, plastic, and the cotton piece as well. Do the same experiment with all the pads you want to make.
+Use the soluble pen/marker to make drawings/sketches of the templates (cutting guides) on the fabric, plastic, and the cotton piece.  
+Repeat for as many pads you want to create.
 
 <p align="center" width="100%">
 <img src="Images/3-1.jpg" alt="Draw and cut" width="600"/><br><em>Draw and cut</em></p>
@@ -75,7 +75,7 @@ Output
 <img src="Images/3-2.jpg" alt="Draw and cut" width="600"/><br><em>Fabric ready to cut</em></p>
 
 ### Step four
-You can now cut the piece of cotton using the smallest long shape with rounded ends.  
+Now cut the piece of cotton using the smallest long shape with rounded ends.  
 Then cut the plastic piece which is slightly larger than the cotton piece.
 
 <p align="center" width="100%">
@@ -94,7 +94,8 @@ Output
 <img src="Images/4-4.jpg" alt="Drawing and cuting the shape with wings" width="600"/><br><em>Drawing and cuting the shape with wings</em></p>
  
 ### Step five
-Put the cotton piece and the plastic piece together evenly and secure it with pins/clips, thread your needle and sew the cotton piece to the plastic piece all round
+Put the cotton piece and the plastic piece together evenly. Secure it with pins/clips. Thread your needle and sew the cotton piece to the plastic piece all around.
+
 <p align="center" width="100%">
 <img src="Images/5-1.jpg" alt="Sawing the cotton and the plastic piece together" width="400"/><br><em>Sawing the cotton and the plastic piece together</em></p>
 
@@ -102,7 +103,7 @@ Output
 <p align="center" width="100%">
 <img src="Images/5-2.jpg" alt="Women sawing" width="600"/><br><em>Women sawing</em></p>
 
-#### Step six
+### Step six
 Sew that combined piece to the fabric piece, the cotton side facing outward and the plastic side between the fabric and cotton.
   
 ### Step seven
