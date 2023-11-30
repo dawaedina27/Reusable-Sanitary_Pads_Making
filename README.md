@@ -124,6 +124,10 @@ To wear the reusable sanitary pad, place it in your underwear, wrap the wings un
 <p align="center" width="100%">
 <img src="Images/7-4.jpg" alt="How to use" width="600"/><br><em>Use the pad like displayed</em></p>
 
+## #ASKnet Logo 
+<p align="center" width="100%"
+<img src="Images/asknet-logo.png" alt="#ASKnet Logo" width="600"/></p>
+
 ## Participants
 *Max. Participants:* 30  
 *Min. Trainers:* 2
