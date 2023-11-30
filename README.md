@@ -73,7 +73,7 @@ Output
 With the help of the templates/pad cutting guide, Use the soluble pen/marker to make drawings/sketches of the pad on the fabric, plastic, and the cotton piece as well. Do the same experiment with all the pads you want to make.
 
 <p align="center" width="100%">
-<img src="Images/3-1.jpg" alt="Draw and cut" width="600"/><em>Draw and cut</em></p>
+<img src="Images/3-1.jpg" alt="Draw and cut" width="600"/><br><em>Draw and cut</em></p>
 
 Output
 <img src="Images/3-2.jpg" alt="Draw and cut" width="800"/>
