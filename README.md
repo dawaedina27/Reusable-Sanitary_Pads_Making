@@ -55,10 +55,6 @@ Make the second one to help in cutting the plastic piece and it should be slight
 <p align="center" width="100%">
 <img src="Images/2-3.jpg" alt="Cut the template for the plastic piece" width="600"/><br><em>Second template for the fabric</em></p>
 
-Output
-<p align="center" width="100%">
-<img src="Images/2-4.jpg" alt="Cut the template for the plastic piece" width="600" /><br><em>The template for the plastic piece</em></p>
-
 Make the third one to help in cutting the fabric and make sure it’s longer than the previously cut pieces and with wings on the edges of the long sides
 
 <p align="center" width="100%">
@@ -95,79 +91,42 @@ Lastly, cut the pieces with wings on the edges of the long sides.
 
 Output
 <p align="center" width="100%"> 
-<img src="Images/4-4.jpg" alt="Draw and cuting the shape with wings" width="600"/><br><em>Draw and cuting the shape with wings</em></p>
+<img src="Images/4-4.jpg" alt="Drawing and cuting the shape with wings" width="600"/><br><em>Drawing and cuting the shape with wings</em></p>
  
 ### Step five
 Put the cotton piece and the plastic piece together evenly and secure it with pins/clips, thread your needle and sew the cotton piece to the plastic piece all round
-<img src="Images/5-1.jpg" alt="Thread your needle" width="800"/>
+<p align="center" width="100%">
+<img src="Images/5-1.jpg" alt="Sawing the cotton and the plastic piece together" width="400"/><br><em>Sawing the cotton and the plastic piece together</em></p>
 
 Output
-
-<img src="Images/5-2.jpg" alt="Thread your needle" width="800"/>
+<p align="center" width="100%">
+<img src="Images/5-2.jpg" alt="Women sawing" width="600"/><br><em>Women sawing</em></p>
 
 #### Step six
 Sew that combined piece to the fabric piece, the cotton side facing outward and the plastic side between the fabric and cotton.
-
-<img src="Images/5-1.jpg" alt="Where to Sew" width="800"/>
-
-Output
-
-<img src="Images/5-2.jpg" alt="Arranging the materials" width="800"/>
   
 ### Step seven
 On the edge of one of the wings, sew the button on and on the opposite wing of the edge, cut a small, narrow hole for the button to fit through. Or sew Velcro on the wings instead of buttons
 
-<img src="Images/7-1.jpg" alt="Button location" width="800"/>
-
-<img src="Images/7-2.jpg" alt="Button location" width="800"/>
+<p align="center" width="100%">
+<img src="Images/7-1.jpg" alt="Button location" width="400"/><br><em>Button location</em></p>
 
 Output
+<p align="center" width="100%">
+<img src="Images/7-2.jpg" alt="Button location" width="600"/><br><em>Pad with Velcro</em></p>
 
-<img src="Images/7-3.jpg" alt="How to use" width="800"/>
+<p align="center" width="100%">
+<img src="Images/7-3.jpg" alt="How to use" width="600"/><br><em>Pad with button</em></p>
 
 To wear the reusable sanitary pad, place it in your underwear, wrap the wings under, and use the button to secure in place.
 
-<img src="Images/7-4.jpg" alt="How to use" width="800"/>
-
-## #ASKnet Logo 
-
-![ASKnet Logo](/images/asknet-logo.png)
-
+<p align="center" width="100%">
+<img src="Images/7-4.jpg" alt="How to use" width="600"/><br><em>Use the pad like displayed</em></p>
 
 ## Participants
-** Max. Participants:** 30
-
-
-** Min. Trainers:** 2
+*Max. Participants:* 30  
+*Min. Trainers:* 2
 
 ## Credits, References and Resources  
-Links (e.g. to videos), references, etc.
-
 Title: How to make reusable menstrual pads
-
 URL: https://youtu.be/cZtPLyj_EiA
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Additonal information for this template
-Find the related Wiki for this template [here](https://github.com/ASKnetCommunity/OER_documents_template/wiki) (this is how you embed links)  
-
-For further information about GitHub visit: [ASKnet GitHub Guidance](https://asknet-open-training.github.io/Github-Guidance/) 
-
-This document is written by using markdown syntax. Clicking on the `Pen Icon` will open the Editing mode, which depict the markdown syntax.
-
-For more informations about basic writing and formatting syntax please visit [GitHub: formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
