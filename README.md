@@ -43,31 +43,31 @@ Make your pad template (You can use paper, box, or fly wood for making the templ
 * Make one to help in cutting the piece of cotton into a long shape with rounded ends like in the pictures below 15cm X 29cm
 
 <p align="center" width="100%">
-<img width="600" src="Images/2-1.jpg" alt="First step of the pads making"/><em>Template for the pad</em></p>
+<img width="600" src="Images/2-1.jpg" alt="First step of the pads making"/><br><em>Template for the pad</em></p>
 
 
 Output:
 <p align="center" width="100%">
-<img width="600" src="Images/2-2.jpg" alt="First step of the pads making"/><em>First outcome</em></p>
+<img width="600" src="Images/2-2.jpg" alt="First step of the pads making"/><br><em>First outcome</em></p>
 
 * Make the second one to help in cutting the plastic piece and it should be slightly larger than the cotton piece it should be 16cm X 30Ccm.
 
 <p align="center" width="100%">
-<img src="Images/2-3.jpg" alt="Cut the template for the plastic piece" width="600"/><em>Second template for the fabric</em></p>
+<img src="Images/2-3.jpg" alt="Cut the template for the plastic piece" width="600"/><br><em>Second template for the fabric</em></p>
 
 
 Output
 <p align="center" width="100%">
-<img src="Images/2-4.jpg" alt="Cut the template for the plastic piece" width="600" /><em>The template for the plastic piece</em></p>
+<img src="Images/2-4.jpg" alt="Cut the template for the plastic piece" width="600" /><br><em>The template for the plastic piece</em></p>
 
 * Make the third one to help in cutting the fabric and make sure it’s longer than the previously cut pieces and with wings on the edges of the long sides
 
 <p align="center" width="100%">
-<img src="Images/2-5.jpg" alt="Cut the template for the fabric" width="600"/><em>Third template for the fabric</em></p>
+<img src="Images/2-5.jpg" alt="Cut the template for the fabric" width="600"/><br><em>Third template for the fabric</em></p>
 
 Output
 <p align="center" width="100%">
-<img src="Images/2-6.jpg" alt="Cutting the template for the fabric" width="600"/><em>The template for the fabric</em></p>
+<img src="Images/2-6.jpg" alt="Cutting the template for the fabric" width="600"/><br><em>The template for the fabric</em></p>
   
 ### Step three
 With the help of the templates/pad cutting guide, Use the soluble pen/marker to make drawings/sketches of the pad on the fabric, plastic, and the cotton piece as well. Do the same experiment with all the pads you want to make.
